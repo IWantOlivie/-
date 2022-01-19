@@ -1,0 +1,23 @@
+
+<nav>
+<a href=""> Главная </a>
+<a href=""> SUS </a>
+<a href="" class="Log_in"> Войти </a>
+</nav>
+<style>
+nav {
+ background:#7B68EE;
+ padding: 15px;
+}
+nav a{
+ color:White;
+ text-decoration: none;
+ font-size: 29px;
+
+}
+.Log_in{
+border-radius:15px;
+background:#87CEEB;
+padding:6px;
+}
+</style>
