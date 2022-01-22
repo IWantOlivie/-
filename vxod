@@ -1,0 +1,13 @@
+<p>Для Регистрации/входа используйте свои данные от steam аккаунта</p>
+<div class="log"><p class="lol">Login<p><input type="text" size="40" margin="30px"></div>
+<div class="log">Password <input type="text" size="40"></div>
+<div class=""></div>
+
+
+<style>
+p{
+text-align:center;
+}
+.lol{display:inline}
+input{display:inline}
+</style>
