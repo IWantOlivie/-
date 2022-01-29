@@ -1,1 +1,32 @@
+<style>
+nav {
+ background:#7B68EE;
+ padding: 15px;
+}
+nav a{
+ color:White;
+ text-decoration: none;
+ font-size: 29px;
 
+}
+.Log_in{
+border-radius:15px;
+background:#87CEEB;
+padding:6px;
+}
+p{
+font-size: 30px;
+}
+.drev{
+font-size: 39px;
+text-decoration: overline underline;
+font-family:fantasy;
+text-decoration-color:red;
+color:#00BFFF;
+}
+.opis{}
+
+img{
+margin:4px;
+}
+</style>
